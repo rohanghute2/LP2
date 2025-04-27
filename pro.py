@@ -1,2 +1,2 @@
 # LP2
-print("hello")
+print("hello");
